@@ -1,3 +1,5 @@
+import { Button } from "@/components/ui/button";
+
 export function MissionSection() {
   return (
     <section id="mission" className="py-24 px-6 bg-warm-tan/20">
