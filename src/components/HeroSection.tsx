@@ -10,10 +10,10 @@ export function HeroSection() {
       <div className="relative z-10 text-center px-6 max-w-3xl mx-auto">
         <img src={viaeLogo} alt="Viae" className="h-24 mx-auto mb-8 drop-shadow-lg" />
         <h1 className="text-4xl md:text-5xl font-bold text-accent-foreground tracking-tight leading-tight mb-6">
-          La Philosophie Viae
+          L'Esprit Viae
         </h1>
         <p className="text-lg md:text-xl text-accent-foreground/80 leading-relaxed max-w-2xl mx-auto">
-          Relier le monde du patient et le monde du malade, pour un parcours de soin humain et sécurisé.
+          Apprendre à habiter son chemin de santé 
         </p>
         <div className="mt-10">
           <a
