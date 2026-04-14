@@ -35,10 +35,12 @@ export const Route = createRootRoute({
       { name: "description", content: "Viae accompagne les professionnels de santé et les malades dans le monde du malade, en renforçant le lien de confiance et la sécurisation des données." },
       { name: "author", content: "Viae" },
       { property: "og:title", content: "Viae — La philosophie du parcours de soin" },
-      { property: "og:description", content: "Viae accompagne les professionnels de santé et les malades dans le monde du malade." },
+      { property: "og:description", content: "Viae accompagne les professionnels de santé et les malades dans le monde du malade, en renforçant le lien de confiance et la sécurisation des données." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Viae — La philosophie du parcours de soin" },
+      { name: "twitter:description", content: "Viae accompagne les professionnels de santé et les malades dans le monde du malade, en renforçant le lien de confiance et la sécurisation des données." },
     ],
     links: [
       {
