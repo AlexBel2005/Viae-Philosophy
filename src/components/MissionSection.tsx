@@ -7,7 +7,8 @@ export function MissionSection() {
         <div className="space-y-8 text-foreground/85 leading-relaxed text-base">
           <p>
             L'écoute des malades nous a permis de comprendre que le Viae ne pouvais pas être lié si le malade n'était pas en mesure suivre et avancer sur son Viae. Chez Viae, nous sommes convaincus que notre première mission est de créer cet espace de données de santé habitable et protégé, pour que chaque malade puisse sereinement l'habiter.
-            <p>
+          </p>
+          <p>
             En tant que professionnels des systèmes d'information, notre rôle dans la Viae est double :
           </p>
 
