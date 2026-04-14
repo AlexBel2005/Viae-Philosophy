@@ -2,26 +2,27 @@ export function PhilosophieSection() {
   return (
     <section id="philosophie" className="py-24 px-6 bg-background">
       <div className="max-w-3xl mx-auto">
-        <h2 className="text-3xl font-bold text-primary mb-12 text-center">Notre Philosophie</h2>
+        <h2 className="text-3xl font-bold text-primary mb-12 text-center">Notre Approche</h2>
 
         <div className="space-y-8 text-foreground/85 leading-relaxed text-base">
           <p>
-            Au sein de Viae, nous partageons la conviction que le monde du patient a trop longtemps été confondu avec le monde du malade.
+            Chez Viae, nous partageons la conviction que <i>le monde du patient a trop longtemps été confondu avec <i>le monde du malade</i>.
           </p>
 
           <p>
-            Ces mots je les destine, à vous professionnels de santé, mais plutôt que les adresser au professionnel, je les adresse au malade que vous avez pu être.
+            Ces mots je les destine à vous professionnels de santé, mais plutôt que de les adresser au professionnel, je les adresse au malade que vous avez pu être.
           </p>
 
           <p>
-            Souvenez-vous, vous étiez malade et vous aviez rendez-vous chez votre médecin. Je ne doute que ce n'est sans doute pas votre souvenir le plus vif. La douleur, l'organisation de votre traitement et l'intervention de vos aidants, sont certainement plus marqués.
+            En tant que malade, votre souvenir le plus vif n'a sans doute pas été votre rendez-vous médical. La peur, La douleur, l'organisation de votre traitement ou peut-être l'intervention de vos aidants, a certainement plus marqué votre mémoire.
           </p>
 
           <p>
-            Votre expérience ne se résume pas à votre position de patient au sein d'un parcours de santé. Votre vécu de malade a pris plus de place.
+            Cette période de vie ne se résume pas à votre position de patient au sein d'un parcours de santé. Votre vécu de malade a pris bien plus de place.
           </p>
 
           <div className="bg-muted rounded-2xl p-8 border border-border">
+            <p style="text-align: center;">Le monde du malade</p>
             <p className="font-medium text-primary mb-4">
               Ce vécu, c'est ce que nous désignons par le monde du malade. C'est dans le monde du malade que nous souhaitons vous offrir votre place.
             </p>
