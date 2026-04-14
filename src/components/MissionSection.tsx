@@ -1,3 +1,5 @@
+import { Button } from "@/components/ui/button";
+
 export function MissionSection() {
   return (
     <section id="mission" className="py-24 px-6 bg-warm-tan/20">
@@ -48,9 +50,10 @@ export function MissionSection() {
           </div>
 
           <div className="text-center mt-12 bg-primary rounded-2xl p-10 text-primary-foreground">
-            <p className="text-lg font-medium leading-relaxed">
+            <p className="text-lg font-medium leading-relaxed mb-6">
               Ce lien, le Viae ou encore le monde du malade, nous ne pouvons pas le créer sans vous. Alors devenez nos partenaires !  
             </p>
+            <Button variant="secondary" size="lg">Devenir partenaire</Button>
           </div>
         </div>
       </div>
