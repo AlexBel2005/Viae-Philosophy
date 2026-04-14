@@ -37,7 +37,7 @@ export function PhilosophieSection() {
           </p>
 
           <p>
-            Chaque individu touché par la maladie suit son Viae. Les parcours de santé, ces parties visibles, structurées par des établissements par votre travail. Le quotidien du malade, de son côté, est cette partie peu visible, marquée par l'intervention des aidants - toutes les personnes qui assistent le malade.
+            Chaque individu touché par la maladie suit son Viae. Les parcours de santé, ces parties visibles, structurées par des établissements et les services. Le quotidien du malade, de son côté, est cette partie peu visible, marquée par l'intervention des aidants - toutes les personnes qui assistent le malade.
           </p>
 
           <p>
