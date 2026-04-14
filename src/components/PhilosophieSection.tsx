@@ -2,7 +2,7 @@ export function PhilosophieSection() {
   return (
     <section id="philosophie" className="py-24 px-6 bg-background">
       <div className="max-w-3xl mx-auto">
-        <h2 className="text-3xl font-bold text-primary mb-12 text-center">Notre Approche</h2>
+        <h2 className="text-3xl font-bold text-primary mb-12 text-center">L'Approche Viae</h2>
 
         <div className="space-y-8 text-foreground/85 leading-relaxed text-base">
           <p>
@@ -22,7 +22,7 @@ export function PhilosophieSection() {
           </p>
 
           <div className="bg-muted rounded-2xl p-8 border border-border">
-            <p style={{ textAlign: "center" }}>Le monde du malade</p>
+           <p style="margin-bottom: 8px;">Le monde du malade</p>
            
             <p className="font-medium text-primary mb-4">
               Ce vécu, c'est ce que nous désignons par le monde du malade.
