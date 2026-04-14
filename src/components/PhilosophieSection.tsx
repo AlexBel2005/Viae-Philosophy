@@ -23,6 +23,7 @@ export function PhilosophieSection() {
 
           <div className="bg-muted rounded-2xl p-8 border border-border">
             <p style={{ textAlign: "center" }}>Le monde du malade</p>
+           
             <p className="font-medium text-primary mb-4">
               Ce vécu, c'est ce que nous désignons par le monde du malade. C'est dans le monde du malade que nous souhaitons vous offrir votre place.
             </p>
