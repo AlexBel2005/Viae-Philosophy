@@ -14,7 +14,7 @@ export function PhilosophieSection() {
           </p>
 
           <p>
-            En tant que malade, votre souvenir le plus vif n'a sans doute pas été votre rendez-vous médical. La peur, La douleur, l'organisation de votre traitement ou peut-être l'intervention de vos aidants, a certainement plus marqué votre mémoire.
+            En tant que malade, vos souvenirs les plus marquants n'a sans doute pas été uniquement lié au rendez-vous médical. La peur, La douleur, l'organisation de votre traitement ou peut-être l'intervention de vos aidants, ont certainement autant voire plus marqués votre mémoire.
           </p>
 
           <p>
