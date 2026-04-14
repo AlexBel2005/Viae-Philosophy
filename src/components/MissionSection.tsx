@@ -6,10 +6,10 @@ export function MissionSection() {
 
         <div className="space-y-8 text-foreground/85 leading-relaxed text-base">
           <p>
-            L'écoute des malades nous a permis de comprendre que le Viae ne pouvais pas être lié si le malade n'était pas en mesure suivre et avancer sur son Viae. Chez Viae, nous sommes convaincus que notre première mission est de créer cet espace de données de santé habitable et protégé, pour que chaque malade puisse sereinement l'habiter.
+            L'écoute des malades nous a permis de comprendre que le Viae ne pouvait pas être lié si le malade n'était pas en mesure suivre et avancer sur son Viae. Chez Viae, nous sommes convaincus que notre première mission est de créer cet espace de données de santé habitable et protégé, pour que chaque malade puisse sereinement l'habiter.
           </p>
           <p>
-            En tant que professionnels des systèmes d'information, notre rôle dans la Viae est double :
+            En tant que professionnels des systèmes d'information, notre rôle dans le Viae est double :
           </p>
 
           <div className="grid md:grid-cols-2 gap-6">
@@ -28,23 +28,26 @@ export function MissionSection() {
               </div>
               <h3 className="font-semibold text-primary mb-2">Construire un espace numérique habitable pour le malade</h3>
               <p className="text-sm text-muted-foreground">
-                Nous construisons un chez soi numérique, cet espace numérique protégé que le malade a la liberté d'habiter et d'organiser, pour y ranger ses données et choisir ou non de les partager. 
+                Nous construisons un chez soi numérique, cet espace protégé que le malade a la liberté d'habiter et d'organiser, pour y ranger ses données et choisir ou non de les partager. 
               </p>
             </div>
           </div>
 
           <div className="bg-muted rounded-2xl p-8 border border-border mt-8">
             <p>
-              Nous avons été parmi vous, à vos côtés pour des problèmes administratifs et informatiques, en centre de santé ou à l'hôpital. Nous sommes conscients que votre charge est considérable. Pour autant, nous n'avons pas été soignant.
+              Nous avons été parmi vous, à vos côtés pour des problèmes administratifs et informatiques, en centre de santé ou à l'hôpital. Nous sommes conscients que votre charge est conséquente. 
+            </p>
+            <p>
+              Pour autant, nous n'avons pas été soignant. Cette particularité fait notre force.
             </p>
             <p className="mt-4">
-              Cette particularité fait notre force. Nous ne choisissons jamais entre le secteur privé et le secteur public. Nous ne choisissons jamais entre un professionnel de santé ou un autre — nous nous en tenons aux recommandations de votre ordre. Cette indépendance nous permet de respecter ce qui est le plus cher pour nous, ce lien de complémentarité entre vous et notre structure.
-            </p>
+               Nous ne choisirons jamais entre le secteur privé et le secteur public. Nous ne choisirons jamais entre un professionnel de santé ou un autre.</p>
+            <p> Cette indépendance nous permet de respecter ce qu'il y a de plus cher à nos yeux, ce lien de complémentarité entre vous et notre structure.</p>
           </div>
 
           <div className="text-center mt-12 bg-primary rounded-2xl p-10 text-primary-foreground">
             <p className="text-lg font-medium leading-relaxed">
-              Afin de pouvoir construire ce lien, nous vous montrerons que vous pouvez compter sur nous, en allégeant vos charges administratives. Si vous l'acceptez, nous vous offrirons votre place dans le monde du malade, sur les Viae.
+              Ce lien, le Viae ou encore le monde du malade, nous ne pouvons pas le créer sans vous. Alors devenez nos partenaires !  
             </p>
           </div>
         </div>
