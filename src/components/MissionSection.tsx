@@ -6,7 +6,7 @@ export function MissionSection() {
 
         <div className="space-y-8 text-foreground/85 leading-relaxed text-base">
           <p>
-            Notre expérience auprès des malades nous a permis de comprendre que le Viae ne pouvait pas se faire sans travailler l'accessibilité et la sécurisation des données de santé.
+            Notre expérience auprès des malades nous a permis de comprendre que le Viae ne pouvait pas se faire sans proposer une voie d'accessibilité et la sécurisation des données de santé.
           </p>
 
           <p>
