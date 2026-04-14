@@ -38,6 +38,8 @@ export function MissionSection() {
               Nous avons été parmi vous, à vos côtés pour des problèmes administratifs et informatiques, en centre de santé ou à l'hôpital. Nous sommes conscients que votre charge est conséquente. 
             </p>
             <p>
+            </p>
+            <p>
               Pour autant, nous n'avons pas été soignant. Cette particularité fait notre force.
             </p>
             <p className="mt-4">
