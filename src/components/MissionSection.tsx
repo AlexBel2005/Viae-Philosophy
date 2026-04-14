@@ -6,10 +6,8 @@ export function MissionSection() {
 
         <div className="space-y-8 text-foreground/85 leading-relaxed text-base">
           <p>
-            Notre expérience auprès des malades nous a permis de comprendre que le Viae ne pouvait pas se faire sans proposer une voie d'accessibilité et la sécurisation des données de santé.
-          </p>
-
-          <p>
+            L'écoute des malades nous a permis de comprendre que le Viae ne pouvais pas être lié si le malade n'était pas en mesure suivre et avancer sur son Viae. Chez Viae, nous sommes convaincus que notre première mission est de créer cet espace de données de santé habitable et protégé, pour que chaque malade puisse sereinement l'habiter.
+            <p>
             En tant que professionnels des systèmes d'information, notre rôle dans la Viae est double :
           </p>
 
@@ -18,18 +16,18 @@ export function MissionSection() {
               <div className="w-12 h-12 rounded-xl bg-primary/10 flex items-center justify-center mb-4">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-primary"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
               </div>
-              <h3 className="font-semibold text-primary mb-2">Renforcer le lien de confiance</h3>
+              <h3 className="font-semibold text-primary mb-2">Vous permettre de gagner du temps lié au traitement administratif (à bosser)</h3>
               <p className="text-sm text-muted-foreground">
-                Nous renforçons le lien de confiance avec votre patient en vous fournissant des outils numériques sécurisés pour transférer les données de main à main.
+                Nous vous mettons à disposition des outils numériques sécurisés pour transférer les données de santé de main à main.
               </p>
             </div>
             <div className="bg-card rounded-2xl p-8 border border-border shadow-sm">
               <div className="w-12 h-12 rounded-xl bg-primary/10 flex items-center justify-center mb-4">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-primary"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
               </div>
-              <h3 className="font-semibold text-primary mb-2">Sécuriser les données</h3>
+              <h3 className="font-semibold text-primary mb-2">Construire un espace numérique habitable pour le malade</h3>
               <p className="text-sm text-muted-foreground">
-                Nous assurons que le malade accède à ses données et puisse les sécuriser, pour un parcours de soin transparent et protégé.
+                Nous construisons un chez soi numérique, cet espace numérique protégé que le malade a la liberté d'habiter et d'organiser, pour y ranger ses données et choisir ou non de les partager. 
               </p>
             </div>
           </div>
