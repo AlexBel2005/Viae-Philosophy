@@ -25,7 +25,7 @@ export function PhilosophieSection() {
             <p style={{ textAlign: "center" }}>Le monde du malade</p>
            
             <p className="font-medium text-primary mb-4">
-              Ce vécu, c'est ce que nous désignons par le monde du malade. C'est dans le monde du malade que nous souhaitons vous offrir votre place.
+              Ce vécu, c'est ce que nous désignons par le monde du malade.
             </p>
             <p>
               Vous avez toujours participé à la construction du monde du patient, alors vous devez prendre votre place dans le monde du malade.
@@ -33,19 +33,19 @@ export function PhilosophieSection() {
           </div>
 
           <p>
-            Dans notre approche, nous sommes convaincus qu'il ne devrait pas y avoir de mondes distincts. Nous défendons la co-construction de Viae, ces chemins de santé que les malades suivent.
+            Dans notre approche, nous défendons la construction collective de Viae, ces chemins de santé que les malades suivent.
           </p>
 
           <p>
-            Chaque individu touché par la maladie suit son Viae. D'abord, il y a les parcours de santé, ces parties visibles, structurées par des établissements. Ensuite, il y a le quotidien du malade, cette partie plus ou moins visible, marquée par l'intervention peu considérée des aidants.
+            Chaque individu touché par la maladie suit son Viae. Les parcours de santé, ces parties visibles, structurées par des établissements par votre travail. Le quotidien du malade, de son côté, est cette partie peu visible, marquée par l'intervention des aidants - toutes les personnes qui assistent le malade.
           </p>
 
           <p>
-            Il n'existe pas de Viae unique mais ensemble : organismes, malades, aidants et professionnels de santé, nous pouvons reconnaître et reconstituer tout le Viae, puis l'encadrer.
+            Il n'existe pas de Viae unique mais ensemble : organismes, malades, aidants et professionnels de santé, nous pouvons reconnaître et reconstituer tout le Viae, pour mieux accompagner.
           </p>
 
           <p>
-            Tout est déjà là, vous avez construit des parties du Viae. Aujourd'hui, il ne nous reste plus qu'à aider le malade à les relier.
+            Les Viae sont déjà construits, vous avez construit des parties du Viae. Aujourd'hui, il ne nous reste plus qu'à aider le malade à les relier, en apprenant à habiter le Viae.
           </p>
         </div>
       </div>
