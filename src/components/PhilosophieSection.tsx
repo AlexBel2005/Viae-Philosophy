@@ -6,7 +6,7 @@ export function PhilosophieSection() {
 
         <div className="space-y-8 text-foreground/85 leading-relaxed text-base">
           <p>
-            Chez Viae, nous partageons la conviction que <i>le monde du patient a trop longtemps été confondu avec <i>le monde du malade</i>.
+            Chez Viae, nous partageons la conviction que <i>le monde du patient</i> a trop longtemps été confondu avec <i>le monde du malade</i>.
           </p>
 
           <p>
