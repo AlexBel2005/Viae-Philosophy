@@ -10,7 +10,7 @@ export function Navbar() {
         </a>
         <div className="flex items-center gap-8">
           <a href="#philosophie" className="text-sm font-medium text-muted-foreground hover:text-primary transition-colors">
-            Philosophie
+            Approche
           </a>
           <a href="#mission" className="text-sm font-medium text-muted-foreground hover:text-primary transition-colors">
             Mission
