@@ -14,7 +14,7 @@ export function PhilosophieSection() {
           </p>
 
           <p>
-            En tant que malade, vos souvenirs les plus marquants n'a sans doute pas été uniquement lié au rendez-vous médical. La peur, La douleur, l'organisation de votre traitement ou peut-être l'intervention de vos aidants, ont certainement autant voire plus marqués votre mémoire.
+            En tant que malade, vos souvenirs les plus marquants n'ont sans doute pas été uniquement liés au rendez-vous médical. La peur, La douleur, l'organisation de votre traitement ou peut-être l'intervention de vos aidants, ont certainement autant voire plus marqués votre mémoire.
           </p>
 
           <p>
@@ -33,11 +33,11 @@ export function PhilosophieSection() {
           </div>
 
           <p>
-            Dans notre approche, nous défendons la construction collective de Viae, ces chemins de santé que les malades suivent.
+            Dans notre approche, nous défendons la construction collective de <i>Viae</i>, ces chemins de santé que les malades suivent.
           </p>
 
           <p>
-            Chaque individu touché par la maladie suit son Viae. Les parcours de santé, ces parties visibles, structurées par des établissements et les services. Le quotidien du malade, de son côté, est cette partie peu visible, marquée par l'intervention des aidants - toutes les personnes qui assistent le malade.
+            Chaque personne touchée par la maladie suit son Viae. Les parcours de santé, ces parties visibles, sont organisées par des établissements et des services. Le quotidien du malade, de son côté, est cette partie peu visible, marquée par l'intervention des aidants - toutes les personnes qui assistent le malade.
           </p>
 
           <p>
@@ -45,7 +45,7 @@ export function PhilosophieSection() {
           </p>
 
           <p>
-            Les Viae sont déjà construits, vous avez construit des parties du Viae. Aujourd'hui, il ne nous reste plus qu'à aider le malade à les relier, en apprenant à habiter le Viae.
+            Les Viae ne sont pas à constuire, vous les avez déjà construit en grande partie. Aujourd'hui, il ne nous reste plus qu'à aider le malade à les relier, en apprenant à habiter le Viae.
           </p>
         </div>
       </div>
