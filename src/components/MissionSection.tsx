@@ -52,7 +52,7 @@ export function MissionSection() {
 
           <div className="text-center mt-12 bg-primary rounded-2xl p-10 text-primary-foreground">
             <p className="text-lg font-medium leading-relaxed mb-6">
-              Eclairer le chemin de santé du malade et l'accompagner, ne peut se faire sans votre vous.   
+              Eclairer le chemin de santé du malade et l'accompagner, ne peut se faire sans vous.   
             </p>
             <Button variant="secondary" size="lg">Rejoindre Viae</Button>
           </div>
