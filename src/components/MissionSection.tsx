@@ -37,23 +37,24 @@ export function MissionSection() {
 
           <div className="bg-muted rounded-2xl p-8 border border-border mt-8">
             <p>
-              Nous avons été parmi vous, à vos côtés pour des problèmes administratifs et informatiques, en centre de santé ou à l'hôpital. Nous sommes conscients que votre charge est conséquente. 
+              Nous avons été parmi vous, à vos côtés pour des problèmes administratifs ou informatiques, en centre de santé ou à l'hôpital.  
             </p>
             <p>
+              Nous avons vu le poids de ces tâches dans votre quotidien.
             </p>
             <p>
-              Pour autant, nous n'avons pas été soignant. Cette particularité fait notre force.
+              Pour autant, nous n'avons pas été des professionnels de santé. Et cette particularité fait notre force.
             </p>
             <p className="mt-4">
-               Nous ne choisirons jamais entre le secteur privé et le secteur public. Nous ne choisirons jamais entre un professionnel de santé ou un autre.</p>
+               Nous ne choisirons jamais entre le secteur privé, le secteur semi-privé et le secteur public. Nous ne choisirons jamais entre un professionnel de santé ou un autre. </p>
             <p> Cette indépendance nous permet de respecter ce qu'il y a de plus cher à nos yeux, ce lien de complémentarité entre vous et notre structure.</p>
           </div>
 
           <div className="text-center mt-12 bg-primary rounded-2xl p-10 text-primary-foreground">
             <p className="text-lg font-medium leading-relaxed mb-6">
-              Ce lien, le Viae ou encore le monde du malade, nous ne pouvons pas le créer sans vous. Alors devenez nos partenaires !  
+              Eclairer le chemin de santé du malade et l'accompagner, ne peut se faire sans votre vous.   
             </p>
-            <Button variant="secondary" size="lg">Devenir partenaire</Button>
+            <Button variant="secondary" size="lg">Rejoindre Viae</Button>
           </div>
         </div>
       </div>
