@@ -1,4 +1,4 @@
-import viaeLogo from "@/assets/viae-logo.svg";
+import viaeLogo from "../assets/viae-logo.svg";
 
 export function Navbar() {
   return (
