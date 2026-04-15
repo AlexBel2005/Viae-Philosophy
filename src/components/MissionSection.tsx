@@ -1,4 +1,4 @@
-import { Button } from "../components/ui/button";
+import { Button } from "@/components/ui/button";
 
 export function MissionSection() {
   return (
@@ -53,7 +53,7 @@ export function MissionSection() {
             <p className="text-lg font-medium leading-relaxed mb-6">
               Ce lien, le Viae ou encore le monde du malade, nous ne pouvons pas le créer sans vous. Alors devenez nos partenaires !  
             </p>
-            <Button variant="outline" size="lg" className="border-primary-foreground/30 text-primary-foreground bg-transparent hover:bg-primary-foreground/10 hover:border-primary-foreground/50">Devenir partenaire</Button>
+            <Button variant="secondary" size="lg">Devenir partenaire</Button>
           </div>
         </div>
       </div>
