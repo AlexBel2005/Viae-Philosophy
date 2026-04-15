@@ -14,7 +14,7 @@ export function PhilosophieSection() {
           </p>
 
           <p>
-            En tant que malade, vos souvenirs les plus marquants n'ont sans doute pas été uniquement liés au rendez-vous médical. La peur, La douleur, l'organisation de votre traitement ou peut-être l'intervention de vos aidants, ont certainement autant voire plus marqués votre mémoire.
+            En tant que malade, le rendez-vous médical n’est sans doute pas le seul souvenir marquant que vous gardez. La douleur, l'appui de vos proches, la peur, l'organisation de votre traitement, etc. ont certainement autant voire plus marqués votre mémoire.
           </p>
 
           <p>
