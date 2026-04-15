@@ -54,7 +54,7 @@ export function MissionSection() {
             <p className="text-lg font-medium leading-relaxed mb-6">
               Eclairer le chemin de santé du malade et l'accompagner, ne peut se faire sans vous.   
             </p>
-            <Button variant="secondary" size="lg">Rejoindre Viae</Button>
+            <Button variant="secondary" size="lg">Je rejoinds Viae</Button>
           </div>
         </div>
       </div>
