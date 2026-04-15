@@ -37,15 +37,15 @@ export function PhilosophieSection() {
           </p>
 
           <p>
-            Chaque personne touchée par la maladie suit son Viae. Les parcours de santé, ces parties visibles, sont organisées par des établissements et des services. Le quotidien du malade, de son côté, est cette partie peu visible, marquée par l'intervention des aidants - toutes les personnes qui assistent le malade.
+            Chaque personne touchée par la maladie suit son chemin de santé. Les parcours de santé, ces parties visibles, sont organisées par des établissements et des services. Le quotidien du malade, de son côté, est cette partie peu visible, marquée par l'intervention des aidants - toutes les personnes qui assistent le malade.
           </p>
 
           <p>
-            Il n'existe pas de Viae unique mais ensemble : organismes, malades, aidants et professionnels de santé, nous pouvons reconnaître et reconstituer tout le Viae, pour mieux accompagner.
+            Il n'existe pas de Viae uniques mais ensemble : organismes, malades, aidants et professionnels de santé, nous pouvons reconnaître et reconstituer tout ces chemins, pour mieux accompagner.
           </p>
 
           <p>
-            Les Viae ne sont pas à constuire, vous les avez déjà construit en grande partie. Aujourd'hui, il ne nous reste plus qu'à aider le malade à les relier, en apprenant à habiter le Viae.
+            Les Viae ne sont pas à constuire, vous les avez déjà construit en grande partie. Aujourd'hui, il ne nous reste plus qu'à aider le malade à les relier, en apprenant à habiter son chemin.
           </p>
         </div>
       </div>
