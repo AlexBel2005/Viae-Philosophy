@@ -32,8 +32,7 @@ export function MissionSection() {
               </div>
               <h3 className="font-semibold text-primary mb-2">Construire un espace numérique habitable pour le malade</h3>
               <p className="text-sm text-muted-foreground">
-                Nous bâtissons un chez-soi numérique : un espace protégé que le malade a la liberté d’habiter et d’organiser à sa main. Un lieu pour déposer et ranger ses données en toute sérénité, et décider de ce qu’il souhaite partager. 
-              </p>
+                Nous bâtissons un chez-soi numérique : un espace protégé que le malade a la liberté d’habiter et d’organiser à sa main.</p>
             </div>
           </div>
 
