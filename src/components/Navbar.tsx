@@ -10,13 +10,13 @@ export function Navbar() {
         </a>
         <div className="flex items-center gap-8">
           <a href="#philosophie" className="text-sm font-medium text-muted-foreground hover:text-primary transition-colors">
-            Philosophie
+            L'Approche Viae
           </a>
           <a href="#mission" className="text-sm font-medium text-muted-foreground hover:text-primary transition-colors">
-            Mission
+            Notre Mission
           </a>
           <a href="#contact" className="text-sm font-medium text-muted-foreground hover:text-primary transition-colors">
-            Contact
+            Nous Contacter
           </a>
         </div>
       </div>
