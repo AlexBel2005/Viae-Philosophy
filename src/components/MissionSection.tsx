@@ -8,10 +8,10 @@ export function MissionSection() {
 
         <div className="space-y-8 text-foreground/85 leading-relaxed text-base">
           <p>
-            L'écoute des malades nous a permis de comprendre que le Viae ne pouvait pas être lié si le malade n'était pas en mesure suivre et avancer sur son Viae. Chez Viae, nous sommes convaincus que notre première mission est de créer cet espace de données de santé habitable et protégé, pour que chaque malade puisse sereinement l'habiter.
+            L’écoute des malades nous a fait comprendre que les Viae ne pouvaient pas se former si le malade ne pouvait pas suivre et avancer sur son chemin de santé. Chez Viae, nous sommes convaincus que notre première mission est de créer cet espace de données de santé habitable et protégé, pour que chaque malade puisse sereinement l'habiter.
           </p>
           <p>
-            En tant que professionnels des systèmes d'information, notre rôle dans le Viae est double :
+            En tant que professionnels des systèmes d'information, notre mission est double :
           </p>
 
           <div className="grid md:grid-cols-2 gap-6">
@@ -19,9 +19,9 @@ export function MissionSection() {
               <div className="w-12 h-12 rounded-xl bg-primary/10 flex items-center justify-center mb-4">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-primary"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
               </div>
-              <h3 className="font-semibold text-primary mb-2">Vous permettre de gagner du temps lié au traitement administratif (à bosser)</h3>
+              <h3 className="font-semibold text-primary mb-2">Simplifier la récupération et le transfert des informations du patient</h3>
               <p className="text-sm text-muted-foreground">
-                Nous vous mettons à disposition des outils numériques sécurisés pour transférer les données de santé de main à main.
+                Nous vous mettons à disposition des outils numériques sécurisés pour récupérer et transférer les données de santé de main à main.
               </p>
             </div>
             <div className="bg-card rounded-2xl p-8 border border-border shadow-sm">
@@ -30,7 +30,7 @@ export function MissionSection() {
               </div>
               <h3 className="font-semibold text-primary mb-2">Construire un espace numérique habitable pour le malade</h3>
               <p className="text-sm text-muted-foreground">
-                Nous construisons un chez soi numérique, cet espace protégé que le malade a la liberté d'habiter et d'organiser, pour y ranger ses données et choisir ou non de les partager. 
+                Nous bâtissons un chez-soi numérique : un espace protégé que le malade a la liberté d’habiter et d’organiser à sa main. Un lieu pour déposer et ranger ses données en toute sérénité, et décider de ce qu’il souhaite partager. 
               </p>
             </div>
           </div>
