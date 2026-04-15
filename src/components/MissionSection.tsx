@@ -8,7 +8,9 @@ export function MissionSection() {
 
         <div className="space-y-8 text-foreground/85 leading-relaxed text-base">
           <p>
-            L’écoute des malades nous a fait comprendre que les Viae ne pouvaient pas se former si le malade ne pouvait pas suivre et avancer sur son chemin de santé. Chez Viae, nous sommes convaincus que notre première mission est de créer cet espace de données de santé habitable et protégé, pour que chaque malade puisse sereinement l'habiter.
+            L’écoute des malades nous a permis de comprendre que les Viae ne pouvaient pas se former tant que le malade n'était pas capable de suivre et avancer sur son chemin de santé. </p> 
+          <p>
+            Chez Viae, nous sommes convaincus que notre première mission est de créer cet espace de données de santé habitable et protégé, pour que chaque malade puisse sereinement l'habiter.
           </p>
           <p>
             En tant que professionnels des systèmes d'information, notre mission est double :
