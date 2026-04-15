@@ -41,7 +41,7 @@ export function PhilosophieSection() {
           </p>
 
           <p>
-            Il n'existe pas de Viae uniques mais ensemble : organismes, malades, aidants et professionnels de santé, nous pouvons reconnaître et reconstituer tout ces chemins, pour mieux accompagner.
+            Il n'existe pas de Viae uniques mais ensemble : organismes, malades, aidants et professionnels de santé, nous pouvons reconnaître et reconstituer tous ces chemins, pour mieux accompagner.
           </p>
 
           <p>
