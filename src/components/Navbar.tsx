@@ -16,7 +16,7 @@ export function Navbar() {
             Notre Mission
           </a>
           <a href="#contact" className="text-sm font-medium text-muted-foreground hover:text-primary transition-colors">
-            Nous Contacter
+            Nous contacter
           </a>
         </div>
       </div>
